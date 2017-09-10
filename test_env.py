@@ -2,7 +2,6 @@ import numpy as np
 import sys
 import cv2
 import dlib
-import openface
 import scipy
 import sklearn
 
